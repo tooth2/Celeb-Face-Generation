@@ -62,4 +62,5 @@ def weights_init_normal(m):
 
 ### Training
 * The training loop alternates between training the discriminator and generator networks.
+
 ![training](training.png)
